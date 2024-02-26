@@ -1,0 +1,5 @@
+1/ couver de ligne      chaqu'un est son écriture de code
+2/ couver des branches  sousis conditions composées
+3/ couver condition     décortiquer les conditions complexe
+
+black box --> texte fonctionnel
